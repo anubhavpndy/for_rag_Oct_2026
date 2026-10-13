@@ -1,0 +1,7 @@
+plant_id: UPL
+unit_id: UNIT_05
+chunk_chars: 1800
+chunk_overlap: 200
+metadata_manifest: config/metadata_overrides.csv
+unknown_department: UNCLASSIFIED
+validate_detected_unit_mentions: true

@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.DS_Store
+Thumbs.db
+data/source_files/**
+!data/source_files/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
+data/local_indexes/
+logs/
+*.log
+.cache/
+huggingface/

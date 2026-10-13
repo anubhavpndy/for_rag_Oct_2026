@@ -1,0 +1,2 @@
+source_key,department,plant_id,unit_id,document_type,document_number,version,approval_status
+# Add approved mappings. In SharePoint integration, source_key should be a stable item ID.
